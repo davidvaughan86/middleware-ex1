@@ -1,0 +1,5 @@
+myPets = [
+    'aries', 'king','max'
+    
+    
+    ]
